@@ -1,0 +1,10 @@
+name = "tree_sitter_go_jll"
+uuid = "beecb120-e197-59fa-b79c-0316d51c9920"
+version = "0.16.1+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
